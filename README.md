@@ -1,4 +1,4 @@
-SPACE INVADERS is a retro arcade shooter written in C for MS-DOS. It recreates the classic "Space Invaders" experience using standard ASCII characters and direct video memory manipulation for fast rendering in text mode (80x25).
+TEXT INVADERS is a retro arcade shooter written in C for MS-DOS. It recreates the classic "Space Invaders" experience using standard ASCII characters and direct video memory manipulation for fast rendering in text mode (80x25).
 
 ![Main Menu](screenshot1.png)
 ![Gameplay Action](screenshot2.png)
